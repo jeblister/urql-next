@@ -1,7 +1,8 @@
 {
-  "name": "frontend-slack-next",
+  "name": "frontend-urql-next",
   "version": "1.0.0",
-  "description": "",
+  "description":
+    "Universal React Application with urql a simple GraphQL client",
   "main": "index.js",
   "scripts": {
     "dev": "next",
